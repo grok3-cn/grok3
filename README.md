@@ -1,6 +1,6 @@
 # Grok：马斯克Grok3 国内使用指南~ 【2025年最新更新】
 
-> 更新时间：**2025/08/22**               
+> 更新时间：**2025/08/24**               
 
 国内能轻松使用的 [**Grok3 中文版**](https://chat.lanjingai.org) ，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
 本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjingai.org)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 官网平替**](https://chat.lanjingai.org)和详细使用教程，帮助您快速使用上 grok~
