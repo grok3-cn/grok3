@@ -1,18 +1,18 @@
 # Grok：马斯克Grok3 国内使用指南~ 【2025年最新更新】
 
-> 更新时间：**2025/09/17**               
+> 更新时间：**2025/09/19**               
 
-国内能轻松使用的 [**Grok3 中文版**](https://chat.lanjingai.org) ，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
-本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://chat.lanjingai.org)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 官网平替**](https://chat.lanjingai.org)和详细使用教程，帮助您快速使用上 grok~
+国内能轻松使用的 [**Grok3 中文版**](https://ai.lanjingai.org) ，**无需翻墙**，**支持 Grok-3 Reasoning 及中文版功能**   
+本指南提供全面的 **Grok3 国内使用指南**，包括国内可用的 [**Grok3 网页版**](https://ai.lanjingai.org)、[**Grok3 国内入口**](https://xsimplechat.com)、[**Grok 官网平替**](https://ai.lanjingai.org)和详细使用教程，帮助您快速使用上 grok~
 
-**grok3 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
+**grok3 中文版入口：[https://ai.lanjingai.org](https://ai.lanjingai.org)**   
 **grok3 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 Grok3 中文版？
 
-[**Grok 中文版**](https://chat.lanjingai.org) 是 马斯克 xAI 的 grok3 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
+[**Grok 中文版**](https://ai.lanjingai.org) 是 马斯克 xAI 的 grok3 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的 AI对话体验。
 
 相较于官网，**Grok3 中文版**在以下方面更适合国内用户：
 
@@ -28,7 +28,7 @@
 - [chat.yixiaai.com](https://xsimplechat.com/) - **Grok 中文版**，支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，支持 AI绘画，扫码就能用~
 - [ai.lanjing.pro](https://ai.lanjing.pro/) - **Grok3 中文站**，支持 Grok 3、GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet 最先进的模型，无限使用~
 - [chat.lify.vip](https://chat.yixiaai.com/) - **Grok 镜像网站**，支持 Grok-3 Reasoning、GPT-o1、o3及DeepSeek R1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [chat.lanjingai.org](https://chat.lanjingai.org/) - **ChatGPT 中文站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [ai.lanjingai.org](https://ai.lanjingai.org/) - **ChatGPT 中文站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 
 如果您在国内使用 Grok，强烈建议使用上述 **Grok 中文版镜像网站**
@@ -47,7 +47,7 @@
 
 ## 如何使用 Grok3 中文版？
 
-1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([chat.lanjingai.org](https://chat.lanjingai.org))**）。
+1. **选择网页版**：访问推荐的国内入口（如 **一下AI ([ai.lanjingai.org](https://ai.lanjingai.org))**）。
 2. **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3. **选择模型**：根据需求选择 grok3 模型。
 4. **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
